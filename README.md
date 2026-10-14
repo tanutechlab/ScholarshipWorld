@@ -20,3 +20,5 @@
 HTML5
 CSS3
 JavaScript
+
+Note: These are the 17 entries in your webpage's starter dataset, not a complete list of all worldwide scholarships. Eligibility, funding, deadlines, and participating universities should be checked through official sources.
